@@ -1,0 +1,4 @@
+[submodule "VadhiyaAL.github.io"]
+	path = VadhiyaAL.github.io
+	url = https://github.com/VadhiyaAL/VadhiyaAL.github.io.git
+	branch = main
